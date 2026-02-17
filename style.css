@@ -1,0 +1,11 @@
+.parent{
+    height: 98vh;
+    width: 100%;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    background-color: cadetblue;
+}
